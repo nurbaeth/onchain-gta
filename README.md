@@ -12,7 +12,7 @@
 **Onchain GTA** is a decentralized game built entirely with smart contracts. Inspired by the classic Grand Theft Auto series, this version is a minimalistic, grid-based adventure that lives 100% on-chain.
 
 - 🗺️ Grid-based map (10x10)
-- 🚘 Cars scattered around the city
+- 🚘 Cars scattered around the city 
 - 🕹️ Players can move & steal cars
 - 📡 No frontend needed — play directly via smart contract calls
 
